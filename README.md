@@ -1,0 +1,2 @@
+# -olympiad
+School olympiad scripts
